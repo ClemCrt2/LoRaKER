@@ -1,7 +1,7 @@
 # LoRaKER - A LoRaWAN Project in extreme environment
 
 Reports and other stuff on a LoRaWAN project in Kerguelen Island, French Southern and Antarctic Lands
-With the French Polar Institute Paul-Emile Victor
+With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctique (ZATA) and French National Centre for Scientific Research (CNRS)
 
 ## Hardware devices
 
