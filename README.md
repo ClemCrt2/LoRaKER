@@ -6,6 +6,11 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ![Manchots](./media/intro.JPG)
 
+## Aims
+
+- Build a complete LoRaWAN architecture On-premises
+- Collect, store and display data from sensors
+
 ## Hardware devices
 
 - Gateway Kerlink WirnetStation 868MHz
@@ -18,9 +23,4 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - InfluxDb
 - Grafana
 
-## Aims
-
-- Build a complete LoRaWAN architecture On-premises
-- Collect, store and display data from sensors
- 
-
+![Schema](./media/schema.jpg)
