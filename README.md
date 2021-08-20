@@ -20,14 +20,17 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 	
 ## Software Architecture
 
-- Chirpstack Lora Network Server on debian 10
-- InfluxDb
-- Grafana
+- Debian 10
+- Chirpstack Lora Network Server
+- InfluxDb v1.8.9
+- Grafana v8.1.1
 
 ![Schema](./media/schema.jpg)
 
 ## ToDo List :
 
-[] Add chirpstack-gateway-bridge on Kerlink Wirnet to replace UDP communication by TCP
-[] Upgrade influxdb 1.8 to 2.0
-[] Secure mqqt exchange with SSL
+- [] Find a way to store radio information of all gateways to infludb, actually just the RSSI and SNR of the nearest gateway are stored
+- [] Add LoRa ack message for RAK7204
+- [] Add chirpstack-gateway-bridge on Kerlink Wirnet to replace UDP communication by TCP
+- [] Upgrade influxdb 1.8 to 2.0
+- [] Secure mqqt exchange with SSL
