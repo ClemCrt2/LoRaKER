@@ -16,7 +16,8 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - Gateway Kerlink WirnetStation 868MHz
 - Gateway RakWireless RAK2245 Pi Hat 868MHz
 - RakWireless RAK7204 sensor
-
+- **Comming soon : Gateway Kerlink iStation 868MHz**
+	
 ## Software Architecture
 
 - Chirpstack Lora Network Server on debian 10
@@ -24,3 +25,9 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - Grafana
 
 ![Schema](./media/schema.jpg)
+
+## ToDo List :
+
+[] Add chirpstack-gateway-bridge on Kerlink Wirnet to replace UDP communication by TCP
+[] Upgrade influxdb 1.8 to 2.0
+[] Secure mqqt exchange with SSL
