@@ -14,7 +14,7 @@ The chirpstack-gateway-bridge software process the data and send a MQTT message 
 
 Some message are transmitted to Chirpstack-application-server
 
-# 4 - Data receive by InfluxDb
+## 4 - Data receive by InfluxDb
 
 This is the message sent by the application-server to the influxdb. For this I use the "influxdb integration" available in the application-server menu. We cleary see here that the app-server don't send all the radio rx information : Indeed, my sensor is well receive by my 2 gateways but only one RSSI and one SNR are stored in my influx database. 
 A solution to get all radio rx information is maybe to use the "http integration" of the app-server menu
