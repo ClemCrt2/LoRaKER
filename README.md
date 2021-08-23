@@ -16,7 +16,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - Gateway Kerlink WirnetStation 868MHz
 - Gateway RakWireless RAK2245 Pi Hat 868MHz
 - RakWireless RAK7204 sensor
-- **Comming soon : Gateway Kerlink iStation 868MHz**
+- **Comming soon : Gateway Kerlink iStation 868MHz & other devices**
 	
 ## Software Architecture
 
@@ -29,8 +29,10 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## ToDo List :
 
-- [] Find a way to store radio information of all gateways to infludb, actually just the RSSI and SNR of the nearest gateway are stored
+- [] Find a way to store radio information of all gateways to infludb, actually just the RSSI and SNR of the nearest gateway are stored : 
+	Replace the "Influxdb Integration" by the "http Integration" in the Application-server let appears all informations needed. But influxdb API don't understand direct http PUSH request
 - [] Add LoRa ack message for RAK7204
-- [] Add chirpstack-gateway-bridge on Kerlink Wirnet to replace UDP communication by TCP
+- [] Add new objects and the gateway arriving with the next supply
 - [] Upgrade influxdb 1.8 to 2.0
 - [] Secure mqqt exchange with SSL
+- [] Discover FUOTA (Firmware Update Over The Air) functionnality
