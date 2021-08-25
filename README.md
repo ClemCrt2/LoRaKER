@@ -35,4 +35,6 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - [] Add new objects and the gateway arriving with the next supply
 - [] Upgrade influxdb 1.8 to 2.0
 - [] Secure mqqt exchange with SSL
+- [x] Change username/password of all the devices
+- [] Build a dedicated VLAN for all gateways 
 - [] Discover FUOTA (Firmware Update Over The Air) functionnality
