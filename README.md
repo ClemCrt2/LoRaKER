@@ -45,3 +45,15 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - [x] Change username/password of all the devices
 - [] Build a dedicated VLAN for all gateways 
 - [] Discover FUOTA (Firmware Update Over The Air) functionnality
+
+## LoRaWAN Coverage of Kerguelen Island
+
+A map generate in real time with the Adeunis Network Tester and Grafana. Waiting expedition in Péninsule Courbet to get more data :p
+
+![Map](./media/grafanaLoRaMap2.png)
+
+## Introducing NkE Atm'O
+
+Next sensor to add in the architecture. Will it survive to Kerguelen environment ? 
+
+![NkESensor](./media/CapteurNKEinKerguelen2.jpg)
