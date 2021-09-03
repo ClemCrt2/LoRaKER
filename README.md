@@ -46,6 +46,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - [x] Change username/password of all the devices
 - [] Build a dedicated VLAN for all gateways 
 - [] Discover FUOTA (Firmware Update Over The Air) functionnality
+- [] Configure retention and storage policies for database
 
 ## LoRaWAN Coverage of Kerguelen Island
 
