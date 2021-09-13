@@ -50,7 +50,12 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## LoRaWAN Coverage of Kerguelen Island
 
-A map generate in real time with the Adeunis Network Tester and Grafana.This map collect RSSI and SNR information with the old 3db LoRa Antenna. The next step is to install the 9db antenna and compare the coverage data 
+A map generate in real time with the Adeunis Network Tester and Grafana.This map collect RSSI and SNR information with the old 3db LoRa Antenna. The next step is to install the 9db antenna and compare the coverage data. 
+My LoRa antenna coordonate are -49.35155487, 70.25604248. Actually, my furthest points are the following : 
+ - To the North : -49.24661673, 70.22599993 (11,8 km of distance)
+ - To the West : -49.36048337, 70.06283345 (14.03 km of distance, place of "Cabane Molloy")
+ - To the East : -49.38036659, 70.41949986 (12,26 km of distance, place of "Cabane Morne")
+ - To the South : *comming*
 
 ![Map](./media/grafanaLoRaMap3.png)
 
