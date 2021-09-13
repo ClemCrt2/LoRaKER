@@ -14,13 +14,13 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## Hardware devices
 
-- Gateway Kerlink iStation 868MHz
+- Gateway Kerlink iStation 868MHz with 9db antenna
 - Nke Atm'O
 - Nke Magnet'O
 - Adeunis Network Tester
 
-- Gateway Kerlink WirnetStation 868MHz
-- Gateway RakWireless RAK2245 Pi Hat 868MHz
+- Gateway Kerlink WirnetStation 868MHz with 3db antenna
+- Gateway RakWireless RAK2245 Pi Hat 868MHz with integrated antenna
 - RakWireless RAK7204 sensor
 	
 ## Software Architecture
