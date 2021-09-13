@@ -8,7 +8,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## Aims
 
-- Build a complete LoRaWAN architecture On-premises
+- Build a complete LoRaWAN architecture On-premises : From the sensors configuration to the data analysis
 - Collect, store and display data from sensors
 - Share research and systems configurations on github
 
