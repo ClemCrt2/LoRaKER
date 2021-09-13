@@ -50,7 +50,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## LoRaWAN Coverage of Kerguelen Island
 
-A map generate in real time with the Adeunis Network Tester and Grafana. Waiting expedition in Péninsule Courbet to get more data.
+A map generate in real time with the Adeunis Network Tester and Grafana.This map collect RSSI and SNR information with the old 3db LoRa Antenna. The next step is to install the 9db antenna and compare the coverage data 
 
 ![Map](./media/grafanaLoRaMap3.png)
 
