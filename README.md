@@ -57,7 +57,7 @@ My LoRa antenna coordonate are -49.35155487, 70.25604248. Actually, my furthest 
  - To the East : -49.38036659, 70.41949986 (12,26 km of distance, place of "Cabane Morne" with a RSSI = -125dbm, SNR = -10)
  - To the South : -49.40230002, 70.04283322 (16.43km of distance with a RSSI = -127dbm, SNR = -17)
 
-![Map](./media/grafanaLoRaMap3.png)
+![Map](./media/grafanaLoRaMap4.png)
 
 ## Introducing NkE Atm'O
 
