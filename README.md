@@ -56,6 +56,6 @@ A map generate in real time with the Adeunis Network Tester and Grafana.This map
 
 ## Introducing NkE Atm'O
 
-Next sensor to add in the architecture. Will it survive to Kerguelen environment ? 
+Next sensor to add in the architecture. Will it survive to Kerguelen environment ? For precision on the python program to decode data, see [PythonProgram](https://github.com/ClemCrt2/Codec-Report-Batch-Python) 
 
 ![NkESensor](./media/CapteurNKEinKerguelen2.jpg)
