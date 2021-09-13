@@ -52,7 +52,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 A map generate in real time with the Adeunis Network Tester and Grafana. Waiting expedition in Péninsule Courbet to get more data.
 
-![Map](./media/grafanaLoRaMap2.png)
+![Map](./media/grafanaLoRaMap3.png)
 
 ## Introducing NkE Atm'O
 
