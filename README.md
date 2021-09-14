@@ -15,13 +15,13 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 ## Hardware devices
 
 - Gateway Kerlink iStation 868MHz with 9db antenna
-- Nke Atm'O
+- Nke Atm'O (Power transmitting: 14dbm, SF: 12, Sensibility: -140dbm, LoRaWAN v1.0.2)
 - Nke Magnet'O
-- Adeunis Network Tester
+- Adeunis Network Tester (Power transmitting: 14dbm, SF: 12, Sensibility: -140dbm, LoRaWAN v1.0.2)
 
 - Gateway Kerlink WirnetStation 868MHz with 3db antenna
 - Gateway RakWireless RAK2245 Pi Hat 868MHz with integrated antenna
-- RakWireless RAK7204 sensor
+- RakWireless RAK7204 sensor (LoRaWAN v1.0.2)
 	
 ## Software Architecture
 
