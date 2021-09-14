@@ -12,14 +12,22 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - Collect, store and display data from sensors
 - Share research and systems configurations on github
 
+## Identified use case
+
+- Collect temperature and humidity on precise geographic point
+- Mesure water temperature, water height, salinity ratio 
+- Collect temperature of ponds
+- Get information about the state of trap
+- Get GPS point of cats move
+
 ## Hardware devices
 
-- Gateway Kerlink iStation 868MHz with 9db antenna
+- Gateway Kerlink iStation 868MHz with 9db antenna (-141 dBm for SF12)
 - Nke Atm'O (Power transmitting: 14dbm, SF: 12, Sensibility: -140dbm, LoRaWAN v1.0.2)
 - Nke Magnet'O
 - Adeunis Network Tester (Power transmitting: 14dbm, SF: 12, Sensibility: -140dbm, LoRaWAN v1.0.2)
 
-- Gateway Kerlink WirnetStation 868MHz with 3db antenna
+- Gateway Kerlink WirnetStation 868MHz with 3db antenna (-141 dBm for SF12)
 - Gateway RakWireless RAK2245 Pi Hat 868MHz with integrated antenna
 - RakWireless RAK7204 sensor (LoRaWAN v1.0.2)
 	
