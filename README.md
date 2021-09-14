@@ -26,6 +26,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - Nke Atm'O (Power transmitting: 14dbm, SF: 12, Sensibility: -140dbm, LoRaWAN v1.0.2)
 - Nke Magnet'O
 - Adeunis Network Tester (Power transmitting: 14dbm, SF: 12, Sensibility: -140dbm, LoRaWAN v1.0.2)
+- Custom Serial to LoRa converter with 6db antenna
 
 - Gateway Kerlink WirnetStation 868MHz with 3db antenna (-141 dBm for SF12)
 - Gateway RakWireless RAK2245 Pi Hat 868MHz with integrated antenna
