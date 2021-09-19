@@ -44,18 +44,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## ToDo List :
 
-- [] Find a way to store radio information of all gateways to infludb, actually just the RSSI and SNR of the nearest gateway are stored : 
-	Replace the "Influxdb Integration" by the "http Integration" in the Application-server let appears all informations needed. But influxdb API don't understand direct http PUSH request
-- [] Migrate to a Dockerized LNS architecture
-- [] Create a LoRaWAN Coverage map of Kerguelen with the Adeunis Network Tester  
-- [] Add LoRa ack message for RAK7204
-- [] Add new objects and the gateway arriving with the next supply
-- [] Upgrade influxdb 1.8 to 2.0
-- [] Secure mqqt exchange with SSL
-- [x] Change username/password of all the devices
-- [] Build a dedicated VLAN for all gateways 
-- [] Discover FUOTA (Firmware Update Over The Air) functionnality
-- [] Configure retention and storage policies for database
+**migrated to github project tab**
 
 ## LoRaWAN Coverage of Kerguelen Island
 
