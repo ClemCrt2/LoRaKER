@@ -50,7 +50,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 At the point -49.35155487, 70.25604248, at humain height for the moment
 
-![Photo](./media/kerlinkistation1.JPG)
+![Photo](./media/kerlinkistation3.JPG)
 
 ## LoRaWAN Coverage of Kerguelen Island
 
