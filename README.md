@@ -48,6 +48,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## Installation of Kerlink iStation on hight point
 
+To replace the old kerlink Wirnet Station and compare the following coverage map, I will install the new Kerlink iStation at a the same place than WirnetStation.
 At the point -49.35155487, 70.25604248, at humain height for the moment
 
 ![Photo](./media/kerlinkistation3.JPG)
