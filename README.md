@@ -12,16 +12,25 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - Collect, store and display data from sensors
 - Share research and systems configurations on github
 
+## Identified use case
+
+- Collect temperature and humidity on precise geographic point
+- Mesure water temperature, water height, salinity ratio 
+- Collect temperature of ponds
+- Get information about the state of trap
+- Get GPS point of cats move
+
 ## Hardware devices
 
-- Gateway Kerlink iStation 868MHz with 9db antenna
-- Nke Atm'O
+- Gateway Kerlink iStation 868MHz with 9db antenna (-141 dBm for SF12)
+- Nke Atm'O (Power transmitting: 14dbm, SF: 12, Sensibility: -140dbm, LoRaWAN v1.0.2)
 - Nke Magnet'O
-- Adeunis Network Tester
+- Adeunis Network Tester (Power transmitting: 14dbm, SF: 12, Sensibility: -140dbm, LoRaWAN v1.0.2)
+- Custom Serial to LoRa converter with 6db antenna
 
-- Gateway Kerlink WirnetStation 868MHz with 3db antenna
+- Gateway Kerlink WirnetStation 868MHz with 3db antenna (-141 dBm for SF12)
 - Gateway RakWireless RAK2245 Pi Hat 868MHz with integrated antenna
-- RakWireless RAK7204 sensor
+- RakWireless RAK7204 sensor (LoRaWAN v1.0.2)
 	
 ## Software Architecture
 
@@ -35,18 +44,13 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## ToDo List :
 
-- [] Find a way to store radio information of all gateways to infludb, actually just the RSSI and SNR of the nearest gateway are stored : 
-	Replace the "Influxdb Integration" by the "http Integration" in the Application-server let appears all informations needed. But influxdb API don't understand direct http PUSH request
-- [] Migrate to a Dockerized LNS architecture
-- [] Create a LoRaWAN Coverage map of Kerguelen with the Adeunis Network Tester  
-- [] Add LoRa ack message for RAK7204
-- [] Add new objects and the gateway arriving with the next supply
-- [] Upgrade influxdb 1.8 to 2.0
-- [] Secure mqqt exchange with SSL
-- [x] Change username/password of all the devices
-- [] Build a dedicated VLAN for all gateways 
-- [] Discover FUOTA (Firmware Update Over The Air) functionnality
-- [] Configure retention and storage policies for database
+**migrated to github project tab**
+
+## Installation of Kerlink iStation on hight point
+
+At the point -49.35155487, 70.25604248, at humain height for the moment
+
+![Photo](./media/kerlinkistation2.JPG)
 
 ## LoRaWAN Coverage of Kerguelen Island
 
