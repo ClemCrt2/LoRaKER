@@ -41,5 +41,5 @@ Add the EUI wrote on the back of the gateway in the Gateway ID field
 
 ## Some Pictures
 
-![Photo](./media/kerlinkistation3.JPG)
+![Photo](../media/kerlinkistation3.JPG)
 
