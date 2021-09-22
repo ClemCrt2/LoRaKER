@@ -46,6 +46,12 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 **migrated to github project tab**
 
+## Installation of Kerlink iStation on hight point
+
+At the point -49.35155487, 70.25604248, at humain height for the moment
+
+![Photo](./media/kerlinkistation2.JPG)
+
 ## LoRaWAN Coverage of Kerguelen Island
 
 A map generate in real time with the Adeunis Network Tester and Grafana.This map collect RSSI and SNR information with the old 3db LoRa Antenna. The next step is to install the 9db antenna and compare the coverage data. 
