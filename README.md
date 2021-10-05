@@ -59,6 +59,9 @@ At the point -49.35155487, 70.25604248, at humain height for the moment
 
 ![Photo](./media/kerlinkistation3.JPG)
 
+![Photo](./media/PositionGeo.png)
+
+
 ## Sensor#1 : Network Tester for LoRaWAN Coverage of Kerguelen Island
 
 ### Presentation
@@ -87,7 +90,11 @@ Next sensor to add in the architecture. Will it survive to Kerguelen environment
 
 ### Presentation
 
+![RAK7204](./media/Rak7204_2.png)
+
 ### Results
+
+![RAK7204](./media/Rak7204-grafana.png)
 
 ## Sensor#4 : Nke Watteco Magnet'O
 
