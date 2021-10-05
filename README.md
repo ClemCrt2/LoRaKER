@@ -53,7 +53,7 @@ At the point -49.35155487, 70.25604248, at humain height for the moment
 
 ![Photo](./media/kerlinkistation3.JPG)
 
-## LoRaWAN Coverage of Kerguelen Island
+## Sensor#1 : Network Tester for LoRaWAN Coverage of Kerguelen Island
 
 A map generate in real time with the Adeunis Network Tester and Grafana.This map collect RSSI and SNR information with the old 3db LoRa Antenna. The next step is to install the 9db antenna and compare the coverage data. 
 My LoRa antenna coordonate are -49.35155487, 70.25604248. Actually, my furthest points are the following : 
@@ -64,8 +64,15 @@ My LoRa antenna coordonate are -49.35155487, 70.25604248. Actually, my furthest 
 
 ![Map](./media/grafanaLoRaMap4.png)
 
-## Introducing NkE Atm'O
+## Sensor#2 : Introducing NkE Atm'O
 
 Next sensor to add in the architecture. Will it survive to Kerguelen environment ? For precision on the python program to decode data, see [PythonProgram](https://github.com/ClemCrt2/Codec-Report-Batch-Python) 
 
 ![NkESensor](./media/CapteurNKEinKerguelen2.jpg)
+
+## Sensor#3 : Rak Wireless 7204
+
+## Sensor#4 : Nke Watteco Magnet'O
+
+This sensor is an open/close door detector system. With a magnet install on the door, the sensor can detect if the door is open or close. It power tx is +14dBm and it sensitivity is -140dBm. 
+My configuration permit the sensor to send a LoRaWAN message for each state change (open or close) and to send a keepAlived message each 6 hours. For send this configuration to the sensor, you have to send the frame "1106000f000055108001816801" on the port 125
