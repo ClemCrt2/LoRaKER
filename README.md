@@ -86,6 +86,8 @@ Next sensor to add in the architecture. Will it survive to Kerguelen environment
 
 ###  Results
 
+![Atmo_grafana](./media/atmo-grafana.png)
+
 ## Sensor#3 : Rak Wireless 7204
 
 ### Presentation
@@ -108,4 +110,4 @@ I use this sensor on a trap for introduced mammals used by the French SubAntarct
 
 The sensor is in place on a trap to send it state (Open or Closed). I use grafana to display the state of the trap with the "Dynamic text" panel.
 
-
+![mytrap](./media/CageCo2_all.jpg)
