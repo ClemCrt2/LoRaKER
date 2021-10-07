@@ -101,6 +101,11 @@ Next sensor to add in the architecture. Will it survive to Kerguelen environment
 ### Presentation
 
 This sensor is an open/close door detector system. With a magnet install on the door, the sensor can detect if the door is open or close. It power tx is +14dBm and it sensitivity is -140dBm. 
-My configuration permit the sensor to send a LoRaWAN message for each state change (open or close) and to send a keepAlived message each 6 hours. For send this configuration to the sensor, you have to send the frame "1106000f000055108001816801" on the port 125
+My configuration permit the sensor to send a LoRaWAN message for each state change (open or close) and to send a keepAlived message each 6 hours. For send this configuration to the sensor, you have to send the frame "1106000f000055108001816801" on the port 125.
+I use this sensor on a trap for introduced mammals used by the French SubAntarctic Natural Reserve.
 
 ### Results
+
+The sensor is in place on a trap to send it state (Open or Closed). I use grafana to display the state of the trap with the "Dynamic text" panel.
+
+
