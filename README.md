@@ -55,7 +55,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 To replace the old kerlink Wirnet Station and compare the following coverage map, I will install the new Kerlink iStation at a the same place than WirnetStation.
 
 ### Results
-At the point -49.35155487, 70.25604248, at humain height for the moment
+At the point -49.35155487, 70.25604248, now at 12 meters of height
 
 ![Photo](./media/kerlinkistation3.JPG)
 
