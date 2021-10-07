@@ -40,7 +40,7 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 - Grafana v8.1.1
 - **Comming soon : Docker & kubernetes**
 
-![Schema](./media/schema.jpg)
+![Schema](./media/MyDockerArchitecture.png)
 
 ## ToDo List :
 
