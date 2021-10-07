@@ -14,10 +14,10 @@ With the French Polar Institute Paul-Emile Victor (IPEV), Zone Atelier Antarctiq
 
 ## Identified use case
 
-- Collect temperature and humidity on precise geographic point
-- Mesure water temperature, water height, salinity ratio 
-- Collect temperature of ponds
-- Get information about the state of trap
+- Collect temperature and humidity on precise geographic point -- Sensor#2
+- Mesure water temperature, water height, salinity ratio -- Sensors coming on the next OP
+- Collect temperature of ponds -- Sensors coming on the next OP
+- Get information about the state of trap -- Sensor#4
 - Get GPS point of cats move
 
 ## Hardware devices
